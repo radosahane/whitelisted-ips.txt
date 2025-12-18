@@ -4,3 +4,4 @@ play.letranetwork.com.tr
 45.141.150.189 
 play.rozynw.com.tr 
 play.titanyumnw.com 
+play.lexusnw.com.tr 
