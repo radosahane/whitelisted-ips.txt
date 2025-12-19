@@ -5,3 +5,4 @@ play.letranetwork.com.tr
 play.rozynw.com.tr 
 play.titanyumnw.com 
 play.lexusnw.com.tr 
+185.246.113.34 
